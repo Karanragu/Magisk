@@ -1,5 +1,5 @@
 # Magisk Changelog
-
+sepolicy.rule
 ### v23.0
 
 - [App] Update snet extension. This fixes SafetyNet API errors.
